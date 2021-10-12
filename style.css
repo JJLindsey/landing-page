@@ -2,3 +2,14 @@ body {
     background-image: url('./images/richard-horvath-cPccYbPrF-A-unsplash.jpg');
     color: aliceblue;
 }
+
+.header-title {
+    margin: 2rem auto;
+    font-family: 'Poppins', sans-serif;
+}
+
+#content {
+    margin: 9rem auto;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
