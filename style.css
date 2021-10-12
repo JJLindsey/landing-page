@@ -12,10 +12,8 @@ p {
     font-size: 1.25rem;
 }
 
-.header-title {
-    margin: 2rem auto;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 700;
+#header-title {
+    margin: 3rem auto;
 }
 
 #content {
@@ -44,9 +42,10 @@ p {
     transform: translateY(-7px);
 }
 
-footer {
+.attribution {
     color:ghostwhite;
-    font-size: .5rem;
+    font-size: 1rem;
+    text-align: center;
 }
 
 /*Small devices (landscape phones, 576px and up)*/
